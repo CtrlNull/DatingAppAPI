@@ -10,7 +10,7 @@ gearhost.com, mssql, ssms, VSCode, Nodejs, npm, Core2
 
 Run API
 ```
-dotnet run
+dotnet watch run || dotnet run
 ```
 Run Angular
 ```
