@@ -1,7 +1,7 @@
 # Details
 #### Objective
 
-![Image of Angular Icon](/readmeImages/angularjs.png)
+![Image of Angular Icon]<img src="http://www.simb.co/wp-content/uploads/2016/09/angular.png">
 ![Image of .NetCore]()
 
 Creating first full stack ASP.NET CORE 2.1 Project using Angular 
