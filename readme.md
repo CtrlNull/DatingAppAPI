@@ -6,7 +6,7 @@
  <br />
 Creating first full stack ASP.NET CORE 2.1 Project using Angular 
 #### Required Items
-gearhost.com, mssql, ssms, VSCode, Nodejs, npm, Core2
+gearhost.com, mssql, ssms, VSCode, SqlLite, npm, Core2
  
 ## Build Instructions
 
